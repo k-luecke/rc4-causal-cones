@@ -1,0 +1,703 @@
+{
+  "instances": {
+    "10": {
+      "block_symbols": 4,
+      "factorial_space": 3628800,
+      "m": 10,
+      "max_puzzles": 10,
+      "observations": [
+        {
+          "block_start": 0,
+          "puzzle": 1,
+          "residue": 0,
+          "reveal_bits": 0
+        },
+        {
+          "block_start": 4,
+          "puzzle": 2,
+          "residue": 0,
+          "reveal_bits": 1
+        },
+        {
+          "block_start": 8,
+          "puzzle": 3,
+          "residue": 2,
+          "reveal_bits": 2
+        },
+        {
+          "block_start": 12,
+          "puzzle": 4,
+          "residue": 6,
+          "reveal_bits": 3
+        },
+        {
+          "block_start": 16,
+          "puzzle": 5,
+          "residue": 7,
+          "reveal_bits": 4
+        },
+        {
+          "block_start": 20,
+          "puzzle": 6,
+          "residue": 0,
+          "reveal_bits": 5
+        },
+        {
+          "block_start": 24,
+          "puzzle": 7,
+          "residue": 34,
+          "reveal_bits": 6
+        },
+        {
+          "block_start": 28,
+          "puzzle": 8,
+          "residue": 35,
+          "reveal_bits": 7
+        },
+        {
+          "block_start": 32,
+          "puzzle": 9,
+          "residue": 84,
+          "reveal_bits": 8
+        },
+        {
+          "block_start": 36,
+          "puzzle": 10,
+          "residue": 81,
+          "reveal_bits": 9
+        }
+      ],
+      "planted_permutation": [
+        5,
+        0,
+        4,
+        2,
+        6,
+        1,
+        3,
+        7,
+        9,
+        8
+      ],
+      "seed": 20260930,
+      "stream_prefix": [
+        1,
+        0,
+        1,
+        0,
+        2,
+        5,
+        1,
+        4,
+        4,
+        6,
+        0,
+        6,
+        6,
+        0,
+        4,
+        6,
+        6,
+        9,
+        5,
+        7,
+        8,
+        2,
+        2,
+        0,
+        3,
+        2,
+        2,
+        2,
+        9,
+        2,
+        2,
+        3,
+        2,
+        3,
+        5,
+        4,
+        1,
+        8,
+        5,
+        1
+      ],
+      "truth_seed": 20260940
+    },
+    "12": {
+      "block_symbols": 4,
+      "factorial_space": 479001600,
+      "m": 12,
+      "max_puzzles": 12,
+      "observations": [
+        {
+          "block_start": 0,
+          "puzzle": 1,
+          "residue": 0,
+          "reveal_bits": 0
+        },
+        {
+          "block_start": 4,
+          "puzzle": 2,
+          "residue": 0,
+          "reveal_bits": 1
+        },
+        {
+          "block_start": 8,
+          "puzzle": 3,
+          "residue": 3,
+          "reveal_bits": 2
+        },
+        {
+          "block_start": 12,
+          "puzzle": 4,
+          "residue": 3,
+          "reveal_bits": 3
+        },
+        {
+          "block_start": 16,
+          "puzzle": 5,
+          "residue": 5,
+          "reveal_bits": 4
+        },
+        {
+          "block_start": 20,
+          "puzzle": 6,
+          "residue": 3,
+          "reveal_bits": 5
+        },
+        {
+          "block_start": 24,
+          "puzzle": 7,
+          "residue": 18,
+          "reveal_bits": 6
+        },
+        {
+          "block_start": 28,
+          "puzzle": 8,
+          "residue": 107,
+          "reveal_bits": 7
+        },
+        {
+          "block_start": 32,
+          "puzzle": 9,
+          "residue": 73,
+          "reveal_bits": 8
+        },
+        {
+          "block_start": 36,
+          "puzzle": 10,
+          "residue": 115,
+          "reveal_bits": 9
+        },
+        {
+          "block_start": 40,
+          "puzzle": 11,
+          "residue": 838,
+          "reveal_bits": 10
+        },
+        {
+          "block_start": 44,
+          "puzzle": 12,
+          "residue": 1300,
+          "reveal_bits": 11
+        }
+      ],
+      "planted_permutation": [
+        10,
+        5,
+        8,
+        1,
+        4,
+        6,
+        3,
+        7,
+        11,
+        2,
+        0,
+        9
+      ],
+      "seed": 20260930,
+      "stream_prefix": [
+        9,
+        6,
+        7,
+        7,
+        1,
+        0,
+        0,
+        8,
+        8,
+        5,
+        3,
+        3,
+        2,
+        6,
+        3,
+        3,
+        5,
+        11,
+        8,
+        5,
+        7,
+        6,
+        0,
+        3,
+        2,
+        3,
+        5,
+        2,
+        10,
+        10,
+        6,
+        11,
+        11,
+        7,
+        4,
+        9,
+        1,
+        0,
+        7,
+        3,
+        2,
+        11,
+        4,
+        6,
+        4,
+        5,
+        1,
+        4
+      ],
+      "truth_seed": 20260942
+    },
+    "16": {
+      "block_symbols": 4,
+      "factorial_space": 20922789888000,
+      "m": 16,
+      "max_puzzles": 12,
+      "observations": [
+        {
+          "block_start": 0,
+          "puzzle": 1,
+          "residue": 0,
+          "reveal_bits": 0
+        },
+        {
+          "block_start": 4,
+          "puzzle": 2,
+          "residue": 1,
+          "reveal_bits": 1
+        },
+        {
+          "block_start": 8,
+          "puzzle": 3,
+          "residue": 3,
+          "reveal_bits": 2
+        },
+        {
+          "block_start": 12,
+          "puzzle": 4,
+          "residue": 0,
+          "reveal_bits": 3
+        },
+        {
+          "block_start": 16,
+          "puzzle": 5,
+          "residue": 3,
+          "reveal_bits": 4
+        },
+        {
+          "block_start": 20,
+          "puzzle": 6,
+          "residue": 30,
+          "reveal_bits": 5
+        },
+        {
+          "block_start": 24,
+          "puzzle": 7,
+          "residue": 13,
+          "reveal_bits": 6
+        },
+        {
+          "block_start": 28,
+          "puzzle": 8,
+          "residue": 124,
+          "reveal_bits": 7
+        },
+        {
+          "block_start": 32,
+          "puzzle": 9,
+          "residue": 210,
+          "reveal_bits": 8
+        },
+        {
+          "block_start": 36,
+          "puzzle": 10,
+          "residue": 101,
+          "reveal_bits": 9
+        },
+        {
+          "block_start": 40,
+          "puzzle": 11,
+          "residue": 451,
+          "reveal_bits": 10
+        },
+        {
+          "block_start": 44,
+          "puzzle": 12,
+          "residue": 449,
+          "reveal_bits": 11
+        }
+      ],
+      "planted_permutation": [
+        12,
+        15,
+        2,
+        9,
+        14,
+        5,
+        8,
+        11,
+        4,
+        0,
+        7,
+        6,
+        10,
+        3,
+        1,
+        13
+      ],
+      "seed": 20260930,
+      "stream_prefix": [
+        10,
+        15,
+        12,
+        13,
+        14,
+        6,
+        12,
+        15,
+        0,
+        8,
+        5,
+        7,
+        9,
+        3,
+        1,
+        8,
+        10,
+        10,
+        11,
+        3,
+        12,
+        12,
+        9,
+        14,
+        14,
+        12,
+        12,
+        13,
+        6,
+        15,
+        15,
+        12,
+        10,
+        14,
+        13,
+        2,
+        3,
+        12,
+        6,
+        5,
+        5,
+        9,
+        12,
+        3,
+        7,
+        9,
+        12,
+        1
+      ],
+      "truth_seed": 20260946
+    },
+    "6": {
+      "block_symbols": 4,
+      "factorial_space": 720,
+      "m": 6,
+      "max_puzzles": 6,
+      "observations": [
+        {
+          "block_start": 0,
+          "puzzle": 1,
+          "residue": 0,
+          "reveal_bits": 0
+        },
+        {
+          "block_start": 4,
+          "puzzle": 2,
+          "residue": 1,
+          "reveal_bits": 1
+        },
+        {
+          "block_start": 8,
+          "puzzle": 3,
+          "residue": 3,
+          "reveal_bits": 2
+        },
+        {
+          "block_start": 12,
+          "puzzle": 4,
+          "residue": 3,
+          "reveal_bits": 3
+        },
+        {
+          "block_start": 16,
+          "puzzle": 5,
+          "residue": 0,
+          "reveal_bits": 4
+        },
+        {
+          "block_start": 20,
+          "puzzle": 6,
+          "residue": 3,
+          "reveal_bits": 5
+        }
+      ],
+      "planted_permutation": [
+        2,
+        0,
+        3,
+        4,
+        1,
+        5
+      ],
+      "seed": 20260930,
+      "stream_prefix": [
+        3,
+        2,
+        0,
+        0,
+        4,
+        4,
+        2,
+        1,
+        0,
+        1,
+        5,
+        3,
+        0,
+        3,
+        0,
+        3,
+        3,
+        5,
+        4,
+        0,
+        2,
+        4,
+        4,
+        3
+      ],
+      "truth_seed": 20260936
+    },
+    "7": {
+      "block_symbols": 4,
+      "factorial_space": 5040,
+      "m": 7,
+      "max_puzzles": 7,
+      "observations": [
+        {
+          "block_start": 0,
+          "puzzle": 1,
+          "residue": 0,
+          "reveal_bits": 0
+        },
+        {
+          "block_start": 4,
+          "puzzle": 2,
+          "residue": 1,
+          "reveal_bits": 1
+        },
+        {
+          "block_start": 8,
+          "puzzle": 3,
+          "residue": 1,
+          "reveal_bits": 2
+        },
+        {
+          "block_start": 12,
+          "puzzle": 4,
+          "residue": 3,
+          "reveal_bits": 3
+        },
+        {
+          "block_start": 16,
+          "puzzle": 5,
+          "residue": 6,
+          "reveal_bits": 4
+        },
+        {
+          "block_start": 20,
+          "puzzle": 6,
+          "residue": 26,
+          "reveal_bits": 5
+        },
+        {
+          "block_start": 24,
+          "puzzle": 7,
+          "residue": 48,
+          "reveal_bits": 6
+        }
+      ],
+      "planted_permutation": [
+        1,
+        3,
+        6,
+        0,
+        4,
+        2,
+        5
+      ],
+      "seed": 20260930,
+      "stream_prefix": [
+        3,
+        2,
+        3,
+        2,
+        5,
+        1,
+        6,
+        1,
+        3,
+        6,
+        3,
+        5,
+        2,
+        2,
+        2,
+        3,
+        4,
+        1,
+        4,
+        6,
+        2,
+        2,
+        3,
+        2,
+        2,
+        3,
+        6,
+        0
+      ],
+      "truth_seed": 20260937
+    },
+    "8": {
+      "block_symbols": 4,
+      "factorial_space": 40320,
+      "m": 8,
+      "max_puzzles": 8,
+      "observations": [
+        {
+          "block_start": 0,
+          "puzzle": 1,
+          "residue": 0,
+          "reveal_bits": 0
+        },
+        {
+          "block_start": 4,
+          "puzzle": 2,
+          "residue": 0,
+          "reveal_bits": 1
+        },
+        {
+          "block_start": 8,
+          "puzzle": 3,
+          "residue": 1,
+          "reveal_bits": 2
+        },
+        {
+          "block_start": 12,
+          "puzzle": 4,
+          "residue": 0,
+          "reveal_bits": 3
+        },
+        {
+          "block_start": 16,
+          "puzzle": 5,
+          "residue": 2,
+          "reveal_bits": 4
+        },
+        {
+          "block_start": 20,
+          "puzzle": 6,
+          "residue": 6,
+          "reveal_bits": 5
+        },
+        {
+          "block_start": 24,
+          "puzzle": 7,
+          "residue": 36,
+          "reveal_bits": 6
+        },
+        {
+          "block_start": 28,
+          "puzzle": 8,
+          "residue": 108,
+          "reveal_bits": 7
+        }
+      ],
+      "planted_permutation": [
+        5,
+        1,
+        6,
+        2,
+        3,
+        4,
+        0,
+        7
+      ],
+      "seed": 20260930,
+      "stream_prefix": [
+        6,
+        4,
+        1,
+        0,
+        2,
+        3,
+        7,
+        0,
+        2,
+        1,
+        2,
+        5,
+        0,
+        1,
+        5,
+        0,
+        0,
+        6,
+        6,
+        2,
+        0,
+        1,
+        4,
+        6,
+        7,
+        4,
+        4,
+        4,
+        5,
+        7,
+        5,
+        4
+      ],
+      "truth_seed": 20260938
+    }
+  },
+  "metadata": {
+    "description": "Frozen planted permutations and observations for RC4 Global-Compatibility Lab falsification study. Both DFS and Z3 solvers must consume this file.",
+    "generator": "freeze_observations.py",
+    "seed": 20260930,
+    "sha256": "ae7a8bf22f0444cfdff32f4194a71890f8b79a834a984632f330b9bdf852cce7"
+  }
+}
